@@ -12,6 +12,8 @@ setup(
     py_modules=['Leap'],
     install_requires=['numpy',
                       ],
+    package_data={'': ['libLeap.so', 'LeapPython.so']},
+    include_package_data=True,
     entry_points='''
         [console_scripts]
         Leap=Leap:Leap
