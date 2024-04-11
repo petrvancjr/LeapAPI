@@ -1,0 +1,2 @@
+include libLeap.so
+recursive-include data *

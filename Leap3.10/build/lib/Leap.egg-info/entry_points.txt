@@ -1,0 +1,2 @@
+[console_scripts]
+Leap = Leap:Leap

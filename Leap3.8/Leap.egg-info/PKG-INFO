@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Leap
+Version: 3.8.0
+Summary: Leap Motion for Python 3.8
+Home-page: 
+Author: Petr Vanc
+Author-email: petr.vanc@cvut.cz
+License: BSD 2-clause
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.8
