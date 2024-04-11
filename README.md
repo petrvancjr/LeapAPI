@@ -6,7 +6,7 @@ Leap Motion Controller API for Python 3 versions (currently 3.8, 3.9, 3.10, and 
 2. Choose version `cd ~/LeapAPI/Python3.<YOUR VERSION>`
 3. Install: `pip install .`
 4. Export (single session) `export LD_PRELOAD=~/LeapAPI/Leap3.<YOUR VERSION>/libLeap.so`
-	- Automatic export: `echo "export LD_PRELOAD=~/LeapAPI/Leap3.<YOUR VERSION>/libLeap.so" >> ~.bashrc`
+	- Automatic export: `echo "export LD_PRELOAD=~/LeapAPI/Leap3.<YOUR VERSION>/libLeap.so" >> ~/.bashrc`
 5. Usage: `import Leap`
 
 ## Note:
